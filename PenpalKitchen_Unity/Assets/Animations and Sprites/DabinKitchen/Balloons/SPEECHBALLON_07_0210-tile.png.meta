@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: 9dd39e630d4145046b9505be0ba1a3a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3210430369736964577
+    second: SPEECHBALLON_07_0210-tile_0
+  - first:
+      213: -5177730779561933599
+    second: SPEECHBALLON_07_0210-tile_1
+  - first:
+      213: -4881766162221541095
+    second: SPEECHBALLON_07_0210-tile_2
+  - first:
+      213: -1044413598890503762
+    second: SPEECHBALLON_07_0210-tile_3
+  - first:
+      213: -5847186779619318274
+    second: SPEECHBALLON_07_0210-tile_4
+  - first:
+      213: 5121697561905832607
+    second: SPEECHBALLON_07_0210-tile_5
+  - first:
+      213: 3128492434589080354
+    second: SPEECHBALLON_07_0210-tile_6
+  - first:
+      213: 6269695109892186787
+    second: SPEECHBALLON_07_0210-tile_7
+  - first:
+      213: 8009904553796241621
+    second: SPEECHBALLON_07_0210-tile_8
+  - first:
+      213: -267313951059564332
+    second: SPEECHBALLON_07_0210-tile_9
+  - first:
+      213: 4496660767862794312
+    second: SPEECHBALLON_07_0210-tile_10
+  - first:
+      213: 2215588464551489592
+    second: SPEECHBALLON_07_0210-tile_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPEECHBALLON_07_0210-tile_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 2004
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16c3bb96924273d0800000000000000
+      internalID: -3210430369736964577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEECHBALLON_07_0210-tile_1
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1408
+        width: 2004
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4ca9de9410528b0800000000000000
+      internalID: -5177730779561933599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEECHBALLON_07_0210-tile_2
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 1408
+        width: 2004
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91953484a8b704cb0800000000000000
+      internalID: -4881766162221541095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEECHBALLON_07_0210-tile_3
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 1408
+        width: 2004
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea15b878d5f7181f0800000000000000
+      internalID: -1044413598890503762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEECHBALLON_07_0210-tile_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 2004
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef52e698a9e9adea0800000000000000
+      internalID: -5847186779619318274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEECHBALLON_07_0210-tile_5
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 704
+        width: 2004
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92a160fbcce31740800000000000000
+      internalID: 5121697561905832607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEECHBALLON_07_0210-tile_6
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 704
+        width: 2004
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bdd263b43aa6b20800000000000000
+      internalID: 3128492434589080354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEECHBALLON_07_0210-tile_7
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 704
+        width: 2004
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2a023fb7e620750800000000000000
+      internalID: 6269695109892186787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEECHBALLON_07_0210-tile_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2004
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d80fcdd0c5e82f60800000000000000
+      internalID: 8009904553796241621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEECHBALLON_07_0210-tile_9
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 0
+        width: 2004
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8a697b06f4a4cf0800000000000000
+      internalID: -267313951059564332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEECHBALLON_07_0210-tile_10
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 0
+        width: 2004
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848a5efd429576e30800000000000000
+      internalID: 4496660767862794312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 31a64c83bcbdc3c4da8f6152158727ea
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
